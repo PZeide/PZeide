@@ -34,7 +34,7 @@
   &nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/zeidecs" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white&label=PZeide"></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&label=Zeide%230001">
+  <a href="https://discord.com/users/288710738233786378" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&label=zeide"></a>
 </p>
 
 <p align="center">
