@@ -25,12 +25,12 @@
 I'm Thibaud, a student from **France** 🇫🇷 in love with everything related to computing.  
 I build software for myself or my friends using web or native technologies.
 
-## Stats
+## Metrics
 
 <div>
-  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000163.647f97cdcb524422b0a04974b7b78992.0434" width=256 align="left">
+  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000163.647f97cdcb524422b0a04974b7b78992.0434" height=600 align="left">
 
-  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000163.647f97cdcb524422b0a04974b7b78992.0434" width=256>
+  <img src="assets/metrics.plugin.anilist.svg" height=600>
 </div>
 
 ## Hobbies
