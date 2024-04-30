@@ -24,5 +24,5 @@ jobs:
           plugin_anilist_user: Zeide
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 3
+          plugin_anilist_limit: 2
           plugin_anilist_shuffle: yes
