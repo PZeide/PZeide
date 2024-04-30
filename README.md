@@ -28,9 +28,9 @@ I build software for myself or my friends using web or native technologies.
 ## Metrics
 
 <div>
-  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000163.647f97cdcb524422b0a04974b7b78992.0434" height=600 align="left">
+  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000163.647f97cdcb524422b0a04974b7b78992.0434" height=450 align="left">
 
-  <img src="assets/metrics.plugin.anilist.svg" height=600>
+  <img src="assets/metrics.plugin.anilist.svg" height=450>
 </div>
 
 ## Hobbies
